@@ -32,5 +32,4 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
 =======
-theme: jekyll-theme-cayman
 >>>>>>> 680896eb86e5984d37bb8a5fed1a00c7897c52cf
